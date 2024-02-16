@@ -1,2 +1,4 @@
-Data Scrapper for testing
-then hopefully rib.gg 
+## Webscraper for testing
+- Potentially useable
+- Primarily for data scraping 
+-
